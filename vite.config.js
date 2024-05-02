@@ -13,5 +13,5 @@ export default defineConfig({
             assets: '/src/assets',
         },
     },
-    base: '/NodeAvengers',
+    base: '/bc66-react-node-DimkaGrek',
 });
