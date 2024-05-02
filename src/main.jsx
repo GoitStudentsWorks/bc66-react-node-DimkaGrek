@@ -11,7 +11,7 @@ import 'modern-normalize/modern-normalize.css';
 import 'react-toastify/dist/ReactToastify.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/NodeAvengers">
+  <BrowserRouter basename="/bc66-react-node-DimkaGrek">
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <ToastContainer autoClose={3000} style={{ zIndex: 99999 }} />
